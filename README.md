@@ -41,7 +41,6 @@ To get a local copy up and running, follow these steps:
 ## Screenshots
 
 ![Home Page](https://media.discordapp.net/attachments/827081944931106856/1264542770371235882/Screenshot_from_2024-07-21_16-50-04.png?ex=669e40ba&is=669cef3a&hm=f1a159b355bffcf26516175b17dc5fce79aea10ef0c5e9e8ead6a02cdfb71fca&=&format=webp&quality=lossless&width=550&height=337)
-*Caption: Home Page of the Portfolio Website*
 
 ## Contact
 
