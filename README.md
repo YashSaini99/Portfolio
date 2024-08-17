@@ -47,8 +47,8 @@ To get a local copy up and running, follow these steps:
 Feel free to reach out if you have any questions or suggestions!
 
 - **Email:** [ysyashsaini3@gmail.com](mailto:ysyashsaini3@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yash-saini-3aab02250/)
-- **GitHub:** [Your GitHub Profile](https://github.com/YashSaini99)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yash-saini-3aab02250/)
+- **GitHub:** [GitHub Profile](https://github.com/YashSaini99)
 
 ---
 
